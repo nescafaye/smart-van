@@ -1,0 +1,8 @@
+{
+  "name": "SmartVan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "86b70812"
+}
